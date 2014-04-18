@@ -1,6 +1,6 @@
 Hi,
 
-Please follow the isntructions, to run this project.
+Please follow the instructions, to run this project.
 
 1. Import the project into the eclipse
 
@@ -22,3 +22,9 @@ Folder Structure:
 4. chef_junit	-	contains all the Junit test case for this project.
 
 Done.
+
+
+In case of any queries, write to me at : complanboy2@gmail.com. 
+
+Cheers,
+Sekhar
