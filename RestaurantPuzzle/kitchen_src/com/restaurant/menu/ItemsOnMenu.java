@@ -8,7 +8,7 @@ import java.util.Set;
  * This is a data holder for menu items. This can also contain combos(value
  * meals), family packs etc..
  * 
- * @author <a href="mailto:sekhar@gmail.com">G.V.Sekhar</a>
+ * @author <a href="mailto:complanboy2@gmail.com">G.V.Sekhar</a>
  * @version $Revision$, $Date$, $Author$.
  * @since April 10, 2014
  */
