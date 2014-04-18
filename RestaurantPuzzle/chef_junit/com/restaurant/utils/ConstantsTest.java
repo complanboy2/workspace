@@ -3,7 +3,7 @@ package com.restaurant.utils;
 /**
  * This class contains the Constants.
  * 
- * @author <a href="mailto:sekhar@gmail.com">G.V.Sekhar</a>
+ * @author <a href="mailto:complanboy2@gmail.com">G.V.Sekhar</a>
  * @version $Revision$, $Date$, $Author$.
  * @since April 10, 2014
  */
