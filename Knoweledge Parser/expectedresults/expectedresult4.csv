@@ -1,0 +1,12 @@
+A,B,C
+Shelden,hasFriend,Raj
+Raj,hasSister,Priya
+Shelden,hasFriend,Leonard
+Raj,worksAt,Caltech
+Shelden,worksAt,Caltech
+Leonard,worksAt,Caltech
+Shelden,bornIn,Texas
+Raj,age,30
+Leonard,hasFriend,Penny
+Penny,bornIn,Nabraska
+Raj,bornIn,New_Delhi
