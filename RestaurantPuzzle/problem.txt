@@ -1,3 +1,5 @@
+Restaurant Puzzle
+
 Please complete the puzzle using the development language that you are being interviewed for.
 Most people have send responses that work for the dataset and the test cases
 described along with the problem. However we do use a different dataset and
